@@ -109,7 +109,7 @@ http://localhost:8501
 | Output | 38 disease/health classes |
 | Framework | TensorFlow / Keras |
 | Format | `.keras` (SavedModel) |
-| Training Data | PlantVillage Dataset |
+| Training Data | [New Plant Diseases Dataset (Kaggle)](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset) |
 
 ### How It Works
 
@@ -210,7 +210,7 @@ GitHub: [@andrews-osei](https://github.com/andrews-osei)
 
 ## 🙏 Acknowledgements
 
-- [PlantVillage Dataset](https://plantvillage.psu.edu/) — training data source
+- [New Plant Diseases Dataset — Kaggle](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset) — training data source (87,000+ leaf images across 38 disease classes)
 - [TensorFlow](https://tensorflow.org) — deep learning framework
 - [Streamlit](https://streamlit.io) — app framework and cloud hosting
 
